@@ -1,8 +1,8 @@
-### Hi there 👋
-
 <div align="center"> 
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" alt="GIF of Hello World text" width="350" />
 </div>
+
+### I'm Karsten Larsen, thanks for stopping by 👋
 
 - 💻 I'm a Teaching Assistant for BrainStation's Web Development Bootcamp 🧠
 - 🔭 I’m currently working on a Pomodoro timer application and expanding the functionality of my <a href="https://github.com/karst-larsen/VisualEyes">VisualEyes</a> project 👁
@@ -13,8 +13,4 @@
 
 <!--
 **karst-larsen/karst-larsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 -->
