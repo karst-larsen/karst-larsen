@@ -5,9 +5,9 @@
 </div>
 
 - 💻 I'm a Teaching Assistant for BrainStation's Web Development Bootcamp 🧠
-- 🔭 I’m currently working on a Pomodoro timer application 🍅 and back-end logic for (VisualEyes)[https://github.com/karst-larsen/VisualEyes], a bootcamp capstone project 👁
-- 🌱 I’m currently learning Three.js with [Bruno Simon's Three.js Journey course](https://threejs-journey.com/), GraphQL using open source tutorials, and Unit Testing! 
-- 📫 How to reach me: Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/karsten-larsen/)! 
+- 🔭 I’m currently working on a Pomodoro timer application 🍅 and back-end logic for <a href="https://github.com/karst-larsen/VisualEyes">VisualEyes</a>, a bootcamp capstone project 👁
+- 🌱 I’m currently learning Three.js with <a href="https://threejs-journey.com">Bruno Simon's Three.js Journey course</a>, GraphQL using open source tutorials, and Unit Testing! 
+- 📫 How to reach me: Feel free to contact me on <a href="https://www.linkedin.com/in/karsten-larsen">LinkedIn</a>! 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Big fan of classical music! Particularly Baroque 🎹
 
