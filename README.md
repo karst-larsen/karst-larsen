@@ -4,9 +4,7 @@
 
 ### I'm Karsten Larsen, thanks for stopping by 👋
 
-- 💻 I'm a Teaching Assistant for BrainStation's Web Development Bootcamp 🧠
-- 🔭 I’m currently working on a Pomodoro timer application and expanding the functionality of my <a href="https://github.com/karst-larsen/VisualEyes">VisualEyes</a> project 👁
-- 🌱 I’m currently learning Three.js with <a href="https://threejs-journey.com" target="_blank" >Bruno Simon's Three.js Journey course</a>, GraphQL using open source tutorials, and Unit Testing! 
+- 🌱 I’m currently learning Three.js with <a href="https://threejs-journey.com" target="_blank" >Bruno Simon's Three.js Journey course</a>!
 - 📫 How to reach me: Feel free to contact me on <a href="https://www.linkedin.com/in/karsten-larsen" target="_blank" >LinkedIn</a>! 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Big fan of classical music! Particularly Baroque 🎹
